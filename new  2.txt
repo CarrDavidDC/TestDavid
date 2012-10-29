@@ -1,3 +1,1 @@
-1) accéder au dossier
-2) faire : git init
-3)
+Finaleent je fais quelques modifs
